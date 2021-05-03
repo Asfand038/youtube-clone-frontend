@@ -10,7 +10,6 @@ const Home = () => {
       </Head>
       <h1>An awesome youtube clone.</h1>
       <h2>Hi</h2>
-
       <h3>sdfdsf</h3>
     </div>
   );
