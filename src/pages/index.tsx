@@ -9,6 +9,8 @@ const Home = () => {
         <link rel="icon" href="/favicon.svg" />
       </Head>
       <h1>An awesome youtube clone.</h1>
+      <h1>An awesome youtube clone.</h1>
+      <h1>An awesome youtube clone.</h1>
     </div>
   );
 };
